@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b8fa83c53c5eb44e9d5299ba1d5ed87, type: 3}
+  m_Name: Nose
+  m_EditorClassIdentifier: Assembly-CSharp::JarType
+  type: 5
+  name: Nose
+  description: How did that get in there? You can smell your next rotten food.
+  sprite: {fileID: 629553134381121590, guid: 44b66e753553e3c4786e2905b4244786, type: 3}
+  lifeChange: 0
+  progress: 0
+  turnsImmune: 0
+  immunityCount: 1
+  experienceGained: 0
+  minimumLevel: 2
+  weight: 10

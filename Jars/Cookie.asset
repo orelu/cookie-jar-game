@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b8fa83c53c5eb44e9d5299ba1d5ed87, type: 3}
+  m_Name: Cookie
+  m_EditorClassIdentifier: Assembly-CSharp::JarType
+  type: 1
+  name: COOKIE
+  description: You found the biscuit!
+  sprite: {fileID: 7663256970462078997, guid: 1d7a677ea7afe954aa91e829d9f07c16, type: 3}
+  lifeChange: 0
+  progress: 1
+  turnsImmune: 0
+  immunityCount: 0
+  experienceGained: 10
+  minimumLevel: 0
+  weight: 10
